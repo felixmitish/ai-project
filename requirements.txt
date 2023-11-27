@@ -1,0 +1,11 @@
+tensorflow
+numpy
+geopandas
+chardet
+imgaug
+keras
+webcolors
+geopandas
+pixellib
+jinja2
+geopy

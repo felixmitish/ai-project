@@ -9,3 +9,4 @@ geopandas
 pixellib
 jinja2
 geopy
+python-dotenv
